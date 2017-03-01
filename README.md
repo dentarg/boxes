@@ -53,15 +53,18 @@ Different parts of this repository uses different licenses, see the individual l
 
 * [`freebsd/LICENSE`](freebsd/LICENSE)
 * [`openbsd/LICENSE`](openbsd/LICENSE)
+* [`ubuntu/LICENSE`](ubuntu/LICENSE)
 
 ## Credits
 
 * The FreeBSD box is based on [nickchappell/packer-templates].
 * The OpenBSD box is based on [tmatilai/packer-openbsd].
+* The Ubuntu box is based on [ffuenf/vagrant-boxes].
 
 [Vagrant]: https://www.vagrantup.com/
 [Packer]: https://www.packer.io/
 [nickchappell/packer-templates]: https://github.com/nickchappell/packer-templates
 [tmatilai/packer-openbsd]: https://github.com/tmatilai/packer-openbsd
+[ffuenf/vagrant-boxes]: https://github.com/ffuenf/vagrant-boxes
 [on Atlas]: https://atlas.hashicorp.com/twingly
 [to Atlas]: https://atlas.hashicorp.com/vagrant
